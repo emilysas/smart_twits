@@ -16,6 +16,8 @@ To pull recent changes from twittter: require 'api_twit.rb', update = APITwitter
 
 Following the Makeathon I decided to try to make the front-end design a little cleaner. I incorporated bootstrap and tried to give the page as clean a feel as possible - not an easy job for an app that has so much text. The design still needs work, but currently looks like this:
 
-![Alt text](/Screen Shot 2015-02-15 at 10.37.35.png?raw=true "ScreenShot")
+![Screenshot](/Screen Shot 2015-02-15 at 10.37.35.png?raw=true "ScreenShot")
 
+##Future Intentions
 
+Having revisited the code following the makeathon, I realised that the classes need rethinking. I would like to redesign the backend logic as well as refactor the code that speaks to the API.
